@@ -120,12 +120,13 @@ trend="08% Since last month"
 <div className="bg-white rounded-lg shadow p-6">
 
 <h2 className="text-lg font-medium mb-2">DATE</h2>
-
+//this is for the date
 <p className="text-2xl font-semibold">{currentDate}</p>
 
 </div>
 
 <div className="bg-white rounded-lg shadow p-6">
+//this is for the time
 
 <h2 className="text-lg font-medium mb-2">TIME</h2>
 
